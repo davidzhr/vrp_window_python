@@ -1,0 +1,15 @@
+data/*
+!data/README
+*.log
+*.csv
+.idea
+.idea/*
+*.pyc
+**.pyc
+*.ipynb
+nohup.out
+logs/*
+__pycache__
+__pycache__/*
+
+
